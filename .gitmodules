@@ -1,0 +1,3 @@
+[submodule "Wav2Lip"]
+	path = Wav2Lip
+	url = .\\Wav2Lip\\

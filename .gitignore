@@ -1,4 +1,4 @@
 #ignore folders 
 #env
-.env/
+env/
 .vscode/

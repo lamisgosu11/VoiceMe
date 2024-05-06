@@ -2,3 +2,4 @@
 #env
 env/
 .vscode/
+python=3.7
